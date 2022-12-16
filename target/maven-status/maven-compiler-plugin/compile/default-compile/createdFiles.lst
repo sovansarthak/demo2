@@ -1,0 +1,7 @@
+dummyframework1/abstractComponents/abstractComponents.class
+dummyframework1/resources/ExtentReporterNG.class
+dummyframework1/pageObjects/OrderPage.class
+dummyframework1/pageObjects/CartPage.class
+dummyframework1/pageObjects/HomePage.class
+dummyframework1/pageObjects/LandingPage.class
+dummyframework1/pageObjects/ConfirmationPage.class
